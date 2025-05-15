@@ -1,0 +1,2 @@
+# Kütüphane Takip Programý – Final Projesi
+Bu proje, bir kütüphanedeki kitaplarýn takibini saðlamak amacýyla geliþtirilmiþtir. Program, C# programlama dili kullanýlarak Windows Forms platformunda hazýrlanmýþtýr. Veri iþlemleri için Microsoft Access tabanlý bir veritabaný kullanýlmýþtýr ve uygulama, x64 mimariye sahip sistemlerle uyumlu olacak þekilde yapýlandýrýlmýþtýr. Kullanýcý dostu bir arayüze sahip olan program; kitap ekleme, silme, güncelleme ve listeleme gibi temel kitap yönetim iþlemlerini gerçekleþtirebilmektedir.
