@@ -1,2 +1,14 @@
-# Kütüphane Takip Programı – Final Projesi
-Bu proje, bir kütüphanedeki kitapların takibini sağlamak amacıyla geliştirilmiştir. Program, C# programlama dili kullanılarak Windows Forms platformunda hazırlanmıştır. Veri işlemleri için Microsoft Access tabanlı bir veritabanı kullanılmıştır ve uygulama, x64 mimariye sahip sistemlerle uyumlu olacak şekilde yapılandırılmıştır. Kullanıcı dostu bir arayüze sahip olan program; kitap ekleme, silme, güncelleme ve listeleme gibi temel kitap yönetim işlemlerini gerçekleştirebilmektedir.
+# KÃ¼tÃ¼phane Takip ProgramÄ± â€“ Final Projesi
+Bu proje, bir kÃ¼tÃ¼phanedeki kitaplarÄ±n takibini saÄŸlamak amacÄ±yla geliÅŸtirilmiÅŸtir. Program, C# programlama dili kullanÄ±larak Windows Forms platformunda hazÄ±rlanmÄ±ÅŸtÄ±r. Veri iÅŸlemleri iÃ§in Microsoft Access tabanlÄ± bir veritabanÄ± kullanÄ±lmÄ±ÅŸtÄ±r ve uygulama, x64 mimariye sahip sistemlerle uyumlu olacak ÅŸekilde yapÄ±landÄ±rÄ±lmÄ±ÅŸtÄ±r. KullanÄ±cÄ± dostu bir arayÃ¼ze sahip olan program; kitap ekleme, silme, gÃ¼ncelleme ve listeleme gibi temel kitap yÃ¶netim iÅŸlemlerini gerÃ§ekleÅŸtirebilmektedir.
+
+Visual Studio'da bazÄ± dosyalar internetten indirildiÄŸi iÃ§in engellenmiÅŸ olabilir. Bu durumda ÅŸu adÄ±mlarÄ± izleyin:
+
+Dosyaya saÄŸ tÄ±klayÄ±n â†’ Ã–zellikler.
+
+"Engellemeyi kaldÄ±r" seÃ§eneÄŸini iÅŸaretleyin.
+
+Uygula ve Tamam butonlarÄ±na tÄ±klayÄ±n.
+
+Visual Studioâ€™yu yeniden baÅŸlatÄ±n.
+
+Bu iÅŸlem dosyanÄ±n gÃ¼venli olarak tanÄ±nmasÄ±nÄ± saÄŸlar ve hata Ã§Ã¶zÃ¼lÃ¼r.
